@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  align-items: center;
+  color: var(--gray-800);
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.logoName {
+  font-family: "Unica One", sans-serif;
+  font-size: 20px;
+}
+
+.leftContainer > * {
+  margin-left: 15px;
+}

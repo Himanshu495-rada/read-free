@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400..800&family=Unica+One&display=swap");
+
+:root {
+  font-family: "Syne", sans-serif;
+  padding: 0 30px;
+  margin: 0;
+  --gray-800: #3d3c3c;
+  --gray-600: #676767;
+  --blue-500: #3ab8eb;
+  --orange-500: #f9784b;
+  --yellow-500: #fdbf0f;
+}
