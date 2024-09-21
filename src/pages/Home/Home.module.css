@@ -166,6 +166,9 @@
 
 .section_3 {
   margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .section_3_title {

@@ -4,6 +4,7 @@ import bookGif from "../../assets/book-gif.png";
 import { Binoculars, Folder, MagnifyingGlass } from "@phosphor-icons/react";
 import ReadingImg from "../../assets/reading.jpg";
 import Book from "../../components/Book/Book";
+import Footer from "../../components/Footer/Footer";
 
 const Home = () => {
   const categories = [
@@ -74,6 +75,7 @@ const Home = () => {
           ))}
         </div>
       </section>
+      <Footer />
     </div>
   );
 };
